@@ -1,0 +1,1 @@
+-Programa que escoje aleatoriamente un amigo de uan determinada lista
