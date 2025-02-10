@@ -20,6 +20,7 @@ Tecnologias
 - Javascript
 
 Captura de pantalla
+
 ![image](https://github.com/user-attachments/assets/ea39dddd-eb92-4bc7-8f1d-74328ae9a9a3)
 
 Mejoras
