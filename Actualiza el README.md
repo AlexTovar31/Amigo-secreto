@@ -1,5 +1,4 @@
-*Amigo-secreto
-
+Amigo-secreto
 
 Es una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -15,6 +14,7 @@ Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 Tecnologias
+
 - HTML5
 - CSS3
 - Javascript
@@ -24,6 +24,7 @@ Captura de pantalla
 ![image](https://github.com/user-attachments/assets/ea39dddd-eb92-4bc7-8f1d-74328ae9a9a3)
 
 Mejoras
+
 - Optimizar el codigo, reducirlo.
 - Mejorar el diseno.
 - Me gustaria conocer la solucion del challenger.
